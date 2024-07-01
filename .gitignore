@@ -1,0 +1,13 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+test_tif_output/
+.idea
